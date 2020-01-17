@@ -1,0 +1,9 @@
+Steps to install a python package:
+1) get the latest pip version: 
+	type: py -m pip install --upgrade pip
+2) proceed to install python package:
+	type: py -m pip install [package_name]
+	eg: py -m pip install pillow
+
+note: "py" is the command to run python code
+note: command is meant for Window, it may be different for Linux or Mac

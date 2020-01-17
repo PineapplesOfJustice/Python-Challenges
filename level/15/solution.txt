@@ -1,0 +1,20 @@
+{
+  "date": "January 27",
+  "url": "https://wikipedia.org/wiki/January_27",
+  "data": {
+    "Births": [
+      {
+        "year": "1756",
+        "text": "Wolfgang Amadeus Mozart, Austrian pianist and composer (d. 1791)",
+        "html": "1756 - <a href=\"https://wikipedia.org/wiki/Wolfgang_Amadeus_Mozart\" title=\"Wolfgang Amadeus Mozart\">Wolfgang Amadeus Mozart</a>, Austrian pianist and composer (d. 1791)",
+        "no_year_html": "<a href=\"https://wikipedia.org/wiki/Wolfgang_Amadeus_Mozart\" title=\"Wolfgang Amadeus Mozart\">Wolfgang Amadeus Mozart</a>, Austrian pianist and composer (d. 1791)",
+        "links": [
+          {
+            "title": "Wolfgang Amadeus Mozart",
+            "link": "https://wikipedia.org/wiki/Wolfgang_Amadeus_Mozart"
+          }
+        ]
+      }
+    ]
+  }
+}
